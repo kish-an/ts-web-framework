@@ -1,2 +1,2 @@
 # ts-web-framework
-Custom Frontend Framework built with TypeScript
+TypeScript course project
